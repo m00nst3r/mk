@@ -2,7 +2,7 @@
 > The list of stores with custom mechanical keyboards in EU
 
 * [keygem.store](https://keygem.store) - Store in Germany
-* [KyKeyboard.eu](https://mykeyboard.eu)
+* [MyKeyboard.eu](https://mykeyboard.eu)
 * [Oblotzky Industries](https://oblotzky.industries) - Store in Germany
 * [CandyKeys](https://candykeys.com) - Shipps from Belgium
 
