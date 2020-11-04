@@ -24,3 +24,7 @@
 ## Current GB
 
 * [SA Nightlight keycaps set](https://candykeys.com/group-buys/SA-Nightlight)
+
+### TODO
+
+* Add script to collect all current GB from server
