@@ -1,0 +1,8 @@
+{
+  "name": "mk",
+  "version": "1.0.0",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "puppeteer": "^5.4.1"
+  }
+}
