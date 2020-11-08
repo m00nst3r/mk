@@ -1,7 +1,9 @@
 {
     "list": [
         {
-            "url": "https://keygem.store"
+            "url": "https://keygem.store",
+            "gb": "/collections/group-buys",
+            "selector": "ProductList ProductList--grid Grid"
         },
         {
             "url": "https://mykeyboard.eu"
