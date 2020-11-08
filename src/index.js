@@ -1,4 +1,11 @@
 import puppeteer from "puppeteer";
+import fs from "fs";
+
+const openConfigFile = async () => {
+    const data = await fs.openSync('./index.js');
+    console.log(data);
+    return {}
+}
 
 const pull = async () => {
     const browser = await puppeteer.launch();
