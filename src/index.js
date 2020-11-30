@@ -10,6 +10,10 @@ const openConfigFile = async () => {
 const fetchPage = async (url, browser) => {
     const pageName = new URL(url).host;
     const page = await browser.newPage();
+    await page.setViewport({
+        width: 2560,
+        height: 1440
+    })
     await page.goto(url, {
         waitUntil: "networkidle0"
     });
