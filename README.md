@@ -6,15 +6,15 @@
 * [MyKeyboard.eu](https://mykeyboard.eu) | Belgium
 * [Oblotzky Industries](https://oblotzky.industries) | Germany
 * [CandyKeys](https://candykeys.com) | Belgium or Germany
-* [keycapsss](keycapsss.com) | Germany
-* [splitkb.com](splitkb.com) | Netherlands
-* [smokey plates](https://smokeyplates.eu) | Germany
+* [Key Capsss](https://keycapsss.com) | Germany
 * [WASD keyboards](https://www.wasdkeyboards.com/#) | Germany
-* [Clark Kable](https://clarkkable.com) | Germany
-* [KEEB STUDIO](https://keeb.studio) | Belgium
 * [keeb werk](https://keebwerk.com) | Germany
 * [Salvun](https://salvun.com) | Belgium
 * [Qlavier](https://www.qlavier.com) | Belgium
+* [KEEB STUDIO](https://keeb.studio) | Keyboard cables | Belgium
+* [Clark Kable](https://clarkkable.com) | Keyboard cables | Germany
+* [Split KB](https://splitkb.com) | Netherlands
+* [Smokey Plates](https://smokeyplates.eu) | Germany
 
 ## [GB] Group buys
 
