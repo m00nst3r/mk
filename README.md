@@ -26,13 +26,9 @@
 
 ## Links
 
-### Keycaps
-
-* [[IC] MT3 Extended 2048](https://geekhack.org/index.php?topic=107022.0)
-
 ## Current GB
 
-* [SA Nightlight keycaps set](https://candykeys.com/group-buys/SA-Nightlight)
+[MechGroupBuys](https://www.mechgroupbuys.com/) - List of all active group buys
 
 ### TODO
 
