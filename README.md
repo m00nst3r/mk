@@ -6,6 +6,7 @@
 * [MyKeyboard.eu](https://mykeyboard.eu) | Belgium
 * [Oblotzky Industries](https://oblotzky.industries) | Germany
 * [CandyKeys](https://candykeys.com) | Belgium or Germany
+* [eloquentclicks](https://www.eloquentclicks.com/) | Spain
 * [Key Capsss](https://keycapsss.com) | Germany
 * [WASD keyboards](https://www.wasdkeyboards.com/#) | Germany
 * [keeb werk](https://keebwerk.com) | Germany
